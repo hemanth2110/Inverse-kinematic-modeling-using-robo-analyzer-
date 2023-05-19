@@ -36,6 +36,12 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 ![image](https://user-images.githubusercontent.com/36288975/170623020-f27efc12-bb58-4f62-840d-af544ac6689e.png)
 
 ### PROCEDURE:
+1.open the roboanalyzer software.
+2.select the robot and its degrees of freedom.
+3.change the values of X and Y wherever necessary.
+4.simulate the model for inverse kinematics.
+5.plot the graph between the joints.
+6.update the DH parameters of the link configuration and end effector configuration.
 
 
 
@@ -45,7 +51,12 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
 
 ### SIMULATION 
- 
+ ### RPR ROBOT :
+ ![1](https://github.com/hemanth2110/Inverse-kinematic-modeling-using-robo-analyzer-/assets/121078629/3a593ea7-e868-445c-adc2-101151b12741)
+![2](https://github.com/hemanth2110/Inverse-kinematic-modeling-using-robo-analyzer-/assets/121078629/07bb8e5b-9753-4ade-8748-1e81dcb64ffa)
+### 3R ROBOT :
+![3](https://github.com/hemanth2110/Inverse-kinematic-modeling-using-robo-analyzer-/assets/121078629/cb3174fc-2fab-4f40-8ebc-1af64621e46a)
+
  
  
  
@@ -53,7 +64,17 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
  
  
  ### PLOT 
- 
+ ### RPR PLOT :
+ ![4](https://github.com/hemanth2110/Inverse-kinematic-modeling-using-robo-analyzer-/assets/121078629/21e5f344-f3f4-423f-8e2b-19f99fa1df54)
+![5](https://github.com/hemanth2110/Inverse-kinematic-modeling-using-robo-analyzer-/assets/121078629/43aea02e-fc3b-492c-83d0-ddd5f5442656)
+
+## 3R ROBOT :
+![6](https://github.com/hemanth2110/Inverse-kinematic-modeling-using-robo-analyzer-/assets/121078629/96e47a6f-77ae-413d-b8cc-bd35cf98de48)
+![7](https://github.com/hemanth2110/Inverse-kinematic-modeling-using-robo-analyzer-/assets/121078629/785965a8-5858-4bcd-bad9-2e9088c6383a)
+
+
+
+
  
  
  
@@ -83,3 +104,4 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
 
 ### RESULTS :  
+Thus,the inverse kinematics using DH parameters for a 3 dof planer and 3 dof articulated robot using roboanalyzer is analysed and the graph of joint angle for a given input end effector position is plotted.
